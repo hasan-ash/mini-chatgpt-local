@@ -22,6 +22,11 @@ Responds using small keyword-based logic – perfect for learning basic AI conce
 
 ---
 
+## 👤 Author
+Developed by *hasan-ash*
+
+---
+
 ## ▶️ How to Run
 ```bash
 python mini_chatgpt.py
